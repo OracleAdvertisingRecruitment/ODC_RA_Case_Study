@@ -1,3 +1,3 @@
-# ODC_RA_Case_Study
+# Oracle Advertising Case Study
 
-This repository contains the data and instructions for the ODC RA Recruitment program. 
+This repository contains the data and instructions for the Oracle Advertising RA Recruitment program. 
